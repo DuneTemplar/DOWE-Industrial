@@ -14738,3 +14738,111 @@ Entries:
   id: 1634
   time: '2025-12-07T15:33:23.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2735
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: 'Modsuit seal/unseal time has been decreased: 7s -> 1.8s'
+  id: 1635
+  time: '2025-12-07T21:06:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2766
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added new combat batteries with EMP shielding. You can be safe now, IPCs
+  id: 1636
+  time: '2025-12-07T21:07:12.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2761
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Loadout acquisition of SVS (15000) and Mosin (5000) by mercenaries is
+        now possible. 7.62×54mmR mag box (1000) included.
+  id: 1637
+  time: '2025-12-08T20:57:24.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2770
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        You can now stash items in cakes like a plushie. All credit to
+        beck-thompson
+  id: 1638
+  time: '2025-12-08T20:59:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2769
+- author: UnicornOnLSD
+  changes:
+    - type: Add
+      message: >-
+        The DIS Pluto MK. II has pierced it's way on the hull market. A
+        replacement of the honorable Pluto. 
+    - type: Remove
+      message: >-
+        DIS Pluto hulls are no longer available on the hull market. We will miss
+        you, space cowboy.
+  id: 1639
+  time: '2025-12-08T21:04:54.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2763
+- author: NazrinNya
+  changes:
+    - type: Remove
+      message: >-
+        SCAF suit, soldat and mercenary modsuits were removed from loadouts.
+        SCAF suit storage is replaced with mercenary suit storage on all maps.
+    - type: Tweak
+      message: Mercenary modsuit migrated to T3 research.
+    - type: Tweak
+      message: Added civilian mod/hardsuits to loadouts.
+  id: 1640
+  time: '2025-12-09T12:27:40.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2771
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added new armored medical shuttle - Dervi.
+  id: 1641
+  time: '2025-12-09T12:58:09.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2762
+- author: Avalon-Proto
+  changes:
+    - type: Add
+      message: A new pulse cannon from he corporate war has been seen in sector
+    - type: Tweak
+      message: NT Lootcrates contents adjusted
+  id: 1642
+  time: '2025-12-09T13:59:55.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2515
+- author: Avalon-Proto
+  changes:
+    - type: Tweak
+      message: Typo fixes for NT things
+  id: 1643
+  time: '2025-12-10T12:15:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2776
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Diagonal lattice and plating now properly renders on radar.
+  id: 1644
+  time: '2025-12-10T20:20:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2772
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        You can use your suit storage slot without actually wearing outerwear
+        now
+  id: 1645
+  time: '2025-12-10T20:21:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2777
+- author: Arcticular1
+  changes:
+    - type: Add
+      message: >-
+        The TSFMC Volta modsuit has received a security hud and welding
+        protection
+    - type: Add
+      message: TSFMC Engineer now spawns with a pouch
+  id: 1646
+  time: '2025-12-11T12:45:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2786
